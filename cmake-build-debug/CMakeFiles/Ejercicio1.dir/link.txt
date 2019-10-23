@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Ejercicio1.dir/main.cpp.o CMakeFiles/Ejercicio1.dir/alumno.cpp.o CMakeFiles/Ejercicio1.dir/profesor.cpp.o CMakeFiles/Ejercicio1.dir/curso.cpp.o CMakeFiles/Ejercicio1.dir/seccion.cpp.o  -o Ejercicio1 
